@@ -1,0 +1,17 @@
+{
+  "name": "ws-nano",
+  "version": "0.0.0",
+  "description": "A workshop tutorial for learning CouchDb with nano",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "ws-nano.js",
+  "repository": "",
+  "author": "",
+  "preferGlobal": true,
+  "license": "MIT",
+  "dependencies": {
+    "workshopper": "~0.4.1",
+    "nano": "~4.2.1"
+  }
+}
